@@ -332,3 +332,62 @@ Isn't a Ferrari faster?
 What is the largest state in the US?
 What about California?
 Isn't Texas larger
+ 
+# Prompt 7 - Gemini
+
+I'm studying english to get a machine learning job in a IT company. 
+I will provide you with a list of sentences from an english book. 
+I need you to change each sentence to a similiar sentence, but using vocabulary from another range of domain like work, meetings, machine learning, development, programming.
+You could use words to persons like developer, programmer, etc.
+
+Also, each sample conversation starts with "Conversation, Lesson #" with the number of the lesson. 
+You should repeat the title and you should put a "-separator-" after it to separate it from the sentences.
+You should mantain the overall structyure of data to process.
+
+Abstain of creating explanatory pieace of text like: "Here is your answer as you asked, new english senteces etc...
+You should not print "# NEW DATA TO PROCESS:" as this is just a piece of text to explain where the text to process start. 
+The content you output will be used in a programatic way.
+
+You should answer only with the convesation title and the new senteces, you shold not output the original text or something like this.
+
+# NEW DATA TO PROCESS:
+
+Conversation, Lesson 10
+
+-separator-
+Is he younger or older than her?
+He is younger than her.
+I thought he was older than her.
+-separator-
+How old do you think she is?
+I think she's 40.
+I don't think she's older than 35.
+-separator-
+What were they doing there? I don't know what they were doing there.
+I think they were checking their emails. Who is the youngest in your class?
+I think Karen is the youngest.
+Isn't James younger than she is?
+-separator-
+Who is the oldest student in your class?
+I think Mark is the oldest.
+Isn't Jim older than Mark?
+-separator-
+What is the most difficult class in school?
+I think it's math.
+Isn't it biology?
+-separator-
+What is the easiest class in school?
+I think it's English.
+Isn't it Portuguese?
+-separator-
+When is the best time for us to go there?
+What about 10 o'clock?
+Isn't it 11 o'clock better?
+-separator-
+What is the fastest car that you know?
+What about a Porsche?
+Isn't a Ferrari faster?
+-separator-
+What is the largest state in the US?
+What about California?
+Isn't Texas larger
