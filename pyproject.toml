@@ -11,6 +11,8 @@ langchain = "^0.1.16"
 transformers = "^4.39.3"
 ipykernel = "^6.29.4"
 pandas = "^2.2.2"
+g4f = "^0.3.0.1"
+langchain-g4f = {git = "https://github.com/MIDORIBIN/langchain-gpt4free.git"}
 
 
 [build-system]
