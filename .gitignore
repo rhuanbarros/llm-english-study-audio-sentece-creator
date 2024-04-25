@@ -163,3 +163,5 @@ cython_debug/
 # *.jpg:Zone.Identifier
 
 data
+new_audio
+new_audio_joined
