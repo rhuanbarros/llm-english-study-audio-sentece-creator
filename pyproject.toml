@@ -13,6 +13,11 @@ ipykernel = "^6.29.4"
 pandas = "^2.2.2"
 g4f = "^0.3.0.1"
 langchain-g4f = {git = "https://github.com/MIDORIBIN/langchain-gpt4free.git"}
+sentencepiece = "^0.2.0"
+datasets = {extras = ["audio"], version = "^2.19.0"}
+torch = "^2.3.0"
+ipywidgets = "^8.1.2"
+iprogress = "^0.4"
 
 
 [build-system]

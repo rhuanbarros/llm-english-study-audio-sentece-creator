@@ -1,0 +1,1239 @@
+Filename,Sentences_new
+Wizard-Lesson 1-01.wma,"Conversation, Lesson 1
+-separator-
+Did the developer deploy the new feature to the server?
+Yes, he did. He deployed the new feature to the server.
+No, he didn't. He didn't deploy the new feature to the server.
+-separator-
+Did the project manager update the task list on the board?
+No, she didn't. She didn't update the task list on the board.
+-separator-
+Did you fetch the data from the database?
+Yes, I did. I fetched the data from the database.
+-separator-
+Did your colleague complete the coding tasks ahead of schedule?
+Yes, she did. She completed the coding tasks ahead of schedule.
+No, she didn't. She didn't complete the coding tasks ahead of schedule.
+-separator-
+Did they implement a new algorithm in the machine learning model?
+No, they didn't. They didn't implement a new algorithm in the machine learning model.
+-separator-
+Is your fellow programmer debugging the code in the office?
+Yes, he is. He is debugging the code in the office.
+No, he isn't. He isn't debugging the code in the office.
+-separator-
+Are the interns testing the software in the virtual environment?
+Yes, they are. They are testing the software in the virtual environment.
+No, they aren't. They aren't testing the software in the virtual environment.
+-separator-
+Is your son organizing the tools in the workshop?
+Yes, he is. He is organizing the tools in the workshop.
+No, he isn't. He isn't organizing the tools in the workshop.
+-separator-
+Is Jane updating her code repository every day?
+Yes, she is. She is updating her code repository every day.
+No, she isn't. She isn't updating her code repository every day.
+-separator-
+Is the engineer processing the data for the machine learning model?
+Yes, he is. He is processing the data for the machine learning model.
+No, he isn't. He is not processing the data for the machine learning model."
+Wizard-Lesson 10-10.wma,"Conversation, Lesson #10
+-separator-
+Is he a junior developer or a senior developer?
+He is a junior developer.
+-separator-
+How many years of experience do you think she has?
+I think she has 10 years of experience.
+-separator-
+What task were they working on?
+I think they were debugging their code.
+-separator-
+Who is the least experienced programmer in your team?
+I think Karen is the least experienced.
+-separator-
+Who is the most experienced developer in your team?
+I think Mark is the most experienced.
+-separator-
+What is the most challenging project in the company?
+I think it's the machine learning project.
+-separator-
+What is the simplest task in programming?
+I think it's setting up a new development environment.
+-separator-
+When should we schedule the next sprint planning meeting?
+What about 10 o'clock in the morning?
+-separator-
+Which is the most efficient programming language you know?
+What about Python?
+-separator-
+What is the largest database system you have worked with?
+What about MongoDB?"
+Wizard-Lesson 11-11.wma,"Conversation, Lesson 11
+-separator-
+Where does the developer come from?
+I believe he hails from England.
+I doubt he hails from England.
+-separator-
+Where do the programmers come from?
+I think they originate from Italy.
+I doubt they originate from Italy.
+-separator-
+Do you know where the project manager comes from?
+I think she's from New York.
+-separator-
+Do you know where the data scientist comes from?
+I think he's from Utah.
+-separator-
+Where is the software team from?
+I think they are from Germany.
+-separator-
+Where is the software engineer from?
+I think she's from Spain.
+-separator-
+Do you think junior developers code too fast?
+I think they do.
+But some junior developers don't code too fast.
+-separator-
+Do you think the machine learning course is too expensive?
+I think it is, but some machine learning courses are not too expensive.
+-separator-
+Do you think it's too cold to debug outside?
+I think it is.
+But I don't think it's too cold to debug outside.
+-separator-
+Do you think the coding challenge was too difficult?
+I think it was.
+But I don't think the coding challenge was too difficult for the programmers."
+Wizard-Lesson 12-12.wma,"Conversation, Lesson 12  
+-separator-  
+She stashed her sunglasses in her bag.  
+How do you know she stashed them in her bag?  
+I observed her stashing them in her bag.  
+
+-separator-  
+He opted for a shuttle to reach the airport.  
+How do you know that he chose a shuttle?  
+I witnessed him opting for the shuttle.  
+
+-separator-  
+She avoids air travel out of fear.  
+How do you know that?  
+Because she consistently opts for train travel.  
+
+-separator-  
+The administrative assistant departed the premises a few minutes ago.  
+How do you know that?  
+I witnessed her departing the office.  
+
+-separator-  
+He dispatched the document via email.  
+
+-separator-  
+She's too fatigued to engage in physical activity today.  
+How do you know she's too fatigued?  
+She toiled until late last night.  
+
+-separator-  
+This assignment exceeds her capabilities.  
+How do you know this assignment exceeds her capabilities?  
+Because she lacks prior experience in this department.  
+
+-separator-  
+She's too preoccupied to attend tonight's gathering.  
+How do you know she's too preoccupied tonight?  
+Because she has an examination at school.  
+
+-separator-  
+She's underage to be out late.  
+Why do you say she's underage?  
+She's merely 14 years old.  
+
+-separator-  
+He's too unwell to report to work.  
+Why do you say he's too unwell to report to work?  
+Because he was confined to bed yesterday.  "
+Wizard-Lesson 13-13.wma,"Conversation, Lesson 13
+-separator-
+He assigned the task to Sandy, but she didn't start it. What's the issue with her?
+I think she's occupied with other projects.
+-separator-
+I submitted the code for review, but no one provided feedback. What's the issue with the code?
+I think there might be a bug. I submitted the code for review, but no one provided feedback. What's the issue with the code?
+I think the team was focused on another task.
+-separator-
+He didn't attend the team meeting. What's the issue with him?
+I think he is feeling under the weather.
+-separator-
+She was supposed to present the project, but she didn't show up. What's the issue with her?
+I think she had a last-minute client meeting.
+-separator-
+Mr. Johnson's code structure is too complicated. Who designed it for him? It was outsourced. The code structure is too complicated. Who designed it for him? It was outsourced.
+-separator-
+Alice's API documentation was missing key details. How do you know that? I observed her creating it.
+-separator-
+I overlooked the sprint planning session. How did you manage to overlook it?
+I don't know how it slipped my mind.
+-separator-
+I misplaced the software architecture diagram. How did you lose track of it?
+I don't know how it slipped my mind.
+-separator-
+I neglected to push the latest changes to the repository. How did you overlook it?
+I accidentally closed my IDE without pushing the changes.
+-separator-
+I always struggle to recall her API endpoint. Why do you find it hard to remember it?"
+Wizard-Lesson 14-14.wma,"Conversation Lesson 14
+-separator-
+She deployed her code in the repository.
+Are you sure she did that?
+Yes, I am. She deployed her code in the repository.
+-separator-
+There is a new pull request for you on GitHub.
+Are you sure of that?
+Yes, I am. I saw it on your GitHub repository.
+Are you sure of that? Yes, I am. I saw it on your GitHub repository.
+-separator-
+She pushed all her commits to the master branch.
+Are you sure she did?
+Yes, I am. She pushed all her commits to the master branch.
+-separator-
+The algorithm was implemented in his project last week.
+Are you sure of that?
+Yes, I am. The algorithm was implemented in his project last week.
+-separator-
+She merged her feature branch into the main codebase.
+Are you sure she did?
+Yes, I am. She merged her feature branch into the main codebase.
+-separator-
+His IDE is not responding.
+Are you sure it's not working?
+Yes, I am. His IDE is not responding.
+-separator-
+Amy's QA team tests her application every Friday.
+Are you sure they test it?
+Yes, I am. Amy's QA team tests her application every Friday.
+-separator-
+The server's database is full of entries.
+Are you sure it is?
+Yes, I am. The server's database is full of entries.
+-separator-
+John's mentor assigned him a challenging project.
+Are you sure he did?
+Yes, I am. John's mentor assigned him a challenging project.
+-separator-
+My colleague's backlog is empty.
+Are you sure it is?
+Yes, I am. My colleague's backlog is empty."
+Wizard-Lesson 14-14.wma,"Conversation  Lesson 14
+-separator-
+He deployed his code in the repository.
+Are you sure he did that?
+Yes, I am.
+-separator-
+There is a new task for you in your project.
+Are you sure of that?
+Yes, I am. I checked it in your project.
+-separator-
+Are you sure of that?
+Yes, I am.
+I confirmed it in your project.
+-separator-
+She assigned all the tickets to the developers.
+Are you sure she did?
+Yes, I am.
+I was with her when she assigned them.
+-separator-
+The algorithm was implemented in the system last week.
+Are you sure of that?
+Yes, I am. I was testing it when it was implemented.
+-separator-
+He pushed the updated model to the server.
+Are you sure he did?
+Yes, I am. I observed the process.
+-separator-
+The server is not responding.
+Are you sure it's not responding?
+Yes, I am. I was trying to connect when it stopped responding.
+-separator-
+The project manager schedules a meeting every Monday.
+Are you sure they schedule it?
+Yes, I am. I always receive the meeting invites.
+-separator-
+The software's requirements are well-defined.
+Are you sure they are?
+Yes, I am. I just reviewed them.
+-separator-
+The developer's IDE crashed during the presentation.
+Are you sure it happened?
+Yes, I am. I was there when it crashed."
+Wizard-Lesson 15-15.wma,"Conversation, Lesson 15  
+-separator-  
+There's a colleague positioned near the entrance.  
+Who is he? He's the fresh recruit in logistics.  
+
+-separator-  
+There's a portrait of the team in the boardroom.  
+Who captured that image? Suited up with her new DSLR.  
+
+-separator-  
+Someone's anticipating your arrival.  
+Who could it be? I suspect it's your newly assigned mentor.  
+
+-separator-  
+There's a camera stowed in the backpack.  
+Who stashed it there? I believe Sam did.  
+
+-separator-  
+There's a dossier in the portfolio.  
+Who placed it there? I witnessed the administrative assistant placing it in the portfolio.  
+
+-separator-  
+There was a padlock securing the garage entry.  
+Who installed the padlock on the garage door? I believe it was the housekeeper.  
+
+-separator-  
+There was a homemade cake in the chiller.  
+Who whipped up the cake? My mom did.  
+
+-separator-  
+There was a pupil in the lecture hall.  
+Who was he? He was the instructor's offspring.  
+
+-separator-  
+There was a lady attending the conference.  
+Who was she? She's the new financial institution executive.  
+
+-separator-  
+There was an advertisement in the periodical.  
+Who placed this advertisement in the publication? James did.  "
+Wizard-Lesson 16-16.wma,"Conversation Lesson 16
+-separator-
+Is there a security lock on the server?
+Yes, there is.
+But I don't think there is.
+-separator-
+Do you know if there is data corruption in the system?
+I think there is.
+I don't think there is.
+I don't think there is.
+-separator-
+Is there a lock on the code repository?
+Yes, I think there is.
+Sorry, I just checked and there isn't.
+-separator-
+Is there code in the repository?
+Yes, I think there is.
+Sorry, I checked and there isn't.
+-separator-
+Is there a solution to this coding issue?
+I am sure there is a solution.
+I am afraid there isn't a solution to this problem.
+I am afraid there isn't a solution to this problem.
+-separator-
+Was there an update on the programming language for me?
+I am sure there was an update for you.
+I don't think there was an update.
+-separator-
+Is there anybody in the development room?
+I don't know if there is or there is not.
+I think there is somebody in there.
+-separator-
+Is there some debugging tool in the development environment?
+I am afraid there isn't any debugging tool here.
+I think there is some.
+-separator-
+Was there a senior developer with her during the project?
+Yes, there was.
+But I didn't see any senior developer while I was there.
+-separator-
+Was there a code review in the sprint?
+I'm not sure there was.
+I don't sure there was.
+I don't think there was."
+Wizard-Lesson 17-17.wma,"Conversation, Lesson 17
+-separator-
+Are there developers here?
+Yes, there are. They're in the meeting room.
+No, there aren't. They've all left for another project.
+-separator-
+How many algorithms are there in your machine learning model?
+I really don't know how many algorithms there are. I think there are more than 20.
+-separator-
+How many data points are there in your dataset?
+I really don't know how many data points there are. I think there are more than 30.
+-separator-
+How many lines of code are there in this software project?
+I really don't know how many lines of code there are. I think there are more than 40.
+-separator-
+How many functions are there in the software library?
+I really don't know how many functions there are. I think there are more than 1,000.
+-separator-
+How many users were there on the platform?
+I really don't know how many users there were. I think there were more than 10,000.
+-separator-
+How many developers were there at the hackathon?
+I really don't know how many developers there were. I don't think there were more than 100.
+-separator-
+How many testers were there at the QA session?
+I really don't know how many testers there were. I think there weren't more than 50.
+-separator-
+How many bugs were there in the code review yesterday?
+I really don't know how many bugs there were. I think there weren't more than 40.
+-separator-
+How many stakeholders were there in the project meeting?
+I really don't know how many stakeholders there were. I think there weren't more than 100."
+Wizard-Lesson 18-18.wma,"Conversation  Lesson 18
+-separator-
+Are there any pending tasks in the sprint backlog?
+Yes, there are. There are pending tasks in the sprint backlog.
+-separator-
+Are there many bugs in the code?
+Yes, there are. There are many bugs in the code.
+There are many bugs in the code.
+There are many bugs in the code.
+There are many bugs in the code.
+There are many bugs in the code?
+Yes, there are. There are many bugs in the code.
+-separator-
+Are there any snacks in the break room?
+No, there aren't. There aren't any snacks in the break room.
+-separator-
+Are there any unit tests in the codebase?
+No, there aren't. There aren't any unit tests in the codebase.
+-separator-
+Are there many developers in the project team?
+Yes, there are. There are many developers in the project team.
+-separator-
+Were there many features in the previous release?
+Yes, there were. There were many features in the previous release.
+-separator-
+Were there many attendees in the last meeting?
+No, there weren't. There weren't many attendees in the last meeting.
+-separator-
+Were there any notes in the meeting minutes?
+No, there were. There were many kids at the swimming pool.
+-separator-
+Were there many commits in the last week?
+Yes, there were.
+-separator-
+Were there many engineers in the last hackathon?
+Yes, there were.
+Were there many engineers in the last hackathon?
+Yes, there were.
+There were many commits in the last week."
+Wizard-Lesson 19-19.wma,"Conversation  Lesson 19
+-separator-
+What did he deploy?
+He deployed the new machine learning model to production.
+Did he deploy the new machine learning model to production?
+Yes, he did.
+-separator-
+What did you do?
+I debugged the code for the new feature.
+Did you debug the code for the new feature?
+Yes, I did.
+-separator-
+What did she do with the project?
+She pushed the project to the remote repository.
+Did she push the project to the remote repository?
+Yes, she did.
+-separator-
+How did he send the data?
+He sent the data via the REST API.
+Did he send the data via the REST API?
+Yes, he did.
+-separator-
+Where did they review the code?
+They reviewed the code in the code review meeting.
+Did they review the code in the code review meeting?
+Yes, they did.
+-separator-
+These requirements are from the same project.
+Did they review the code in the code review meeting?
+Yes, they did.
+These requirements are for the new feature.
+Are these requirements for the new feature?
+Yes, they are.
+-separator-
+This task is hers.
+Is this task hers?
+Yes, it is.
+-separator-
+This bug is his.
+Is this bug his?
+Yes, it is.
+-separator-
+This ticket is mine.
+Is this ticket yours?
+Yes, it is.
+-separator-
+This issue isn't mine.
+Isn't this issue yours?
+No, it isn't."
+Wizard-Lesson 2-02.wma,"Wizard Book 3 Conversation  
+Lesson 2  
+-separator-  
+Where did the engineer deploy the algorithm?  
+The engineer deployed the algorithm on the server.  
+No, he didn't. He didn't deploy the algorithm on the server.  
+-separator-  
+When did the developers test the code?  
+They tested the code during the sprint.  
+No, they didn't. They didn't test the code during the sprint.  
+-separator-  
+When did the programmer optimize the database?  
+He optimized the database last week.  
+No, he didn't. He didn't optimize the database last week.  
+-separator-  
+Where did you store the project files?  
+I stored the project files in the cloud.  
+No, you didn't. You didn't store the project files in the cloud.  
+-separator-  
+Who debugged your software?  
+My colleague debugged my software.  
+No, she didn't. Your colleague didn't debug your software.  
+-separator-  
+Who is running the machine learning model right now?  
+The data scientist is running the machine learning model right now.  
+No, she isn't. She is not running the machine learning model right now.  
+-separator-  
+Who is coding the new feature?  
+The junior developer is coding the new feature.  
+No, he isn't. He is not coding the new feature.  
+-separator-  
+Who is struggling with Git conflicts?  
+I'm struggling with Git conflicts.  
+No, you aren't. You are not struggling with Git conflicts.  
+-separator-  
+Who implemented the neural network architecture?  
+The team lead implemented the neural network architecture.  
+No, they didn't. They didn't implement the neural network architecture.  
+-separator-  
+Who is sponsoring your machine learning certification?  
+My company is sponsoring my machine learning certification.  
+No, it isn't. Your company isn't sponsoring your machine learning certification.  "
+Wizard-Lesson 20-20.wma,"Conversation, Lesson 20
+-separator-
+He always goes for a run with his dog.
+I didn't realize that he always went for a run with his dog.
+Yes, he does. He goes for a run every morning.
+-separator-
+She handles phone calls in Spanish and English.
+I didn't know that she handled phone calls in Spanish and English.
+Yes, she does. She can speak both languages fluently.
+-separator-
+Developers enjoy using peanut butter.
+I didn't know that they enjoyed using peanut butter.
+Yes, they do. They often use peanut butter while working on projects.
+Some programmers bring a peanut butter and jelly sandwich to work.
+I didn't realize that they enjoyed it so much.
+Yes, they do. They bring it to work for lunch.
+-separator-
+I transmitted the images via email.
+I wasn't aware that you transmitted them via email.
+Yes, I did. I sent them through email.
+-separator-
+I'm not sure if the code executed. Did it execute or not?
+Unfortunately, it didn't execute.
+-separator-
+I'm not sure if the algorithm ran. Did it run or not?
+Unfortunately, it didn't run.
+-separator-
+I'm not sure if she contacted us. Did she contact us or not?
+Unfortunately, she didn't make contact.
+-separator-
+I'm not sure if he observed it. Did he observe it or not?
+Unfortunately, he didn't observe it.
+-separator-
+I'm not sure if they deployed the updates. Did they deploy them or not?
+Unfortunately, they didn't deploy them."
+Wizard-Lesson 21-21.wma,"Conversation, Lesson 21  
+-separator-  
+I'm uncertain if she'll visit the tech hub today.  
+Will she be able to visit the cybercafe today?  
+I believe she can.  
+
+-separator-  
+I'm not sure if he can join us for a stroll.  
+Can he accompany us?  
+I think he's able to.  
+
+-separator-  
+I'm unsure if she can prepare a sauce for the salad.  
+Can she create a dressing for the salad?  
+I think she's capable of doing so.  
+
+-separator-  
+I'm unsure if the cleaning service can tidy up the house tomorrow morning.  
+Can they clean the house tomorrow morning?  
+I don't think they can.  
+
+-separator-  
+I'm unsure if they will reach out to us this evening.  
+Can they contact us tonight?  
+I believe they can.  
+
+-separator-  
+Are they able to attend the dance together?  
+Do you think they could?  
+I think it's possible.  
+
+-separator-  
+Can she provide transportation to work for them?  
+Do you think she's capable of it?  
+I believe she could.  
+
+-separator-  
+Is it possible for the meeting to commence at 8 o'clock?  
+Do you think it could start at 8?  
+I think it's feasible.  
+
+-separator-  
+Can they secure the house for us?  
+Do you think they could?  
+I believe they could.  "
+Wizard-Lesson 22-22.wma,"Lesson 22
+-separator-
+The developer can assist us. 
+When can the developer assist us? 
+The developer can assist us at any time. 
+-separator-
+The programmer can access the internet. 
+Where can the programmer access the internet? 
+The programmer can access it from the office computer. 
+-separator-
+The team can pay for our lunch. 
+When can the team pay for our lunch? 
+The team can pay for it tomorrow. 
+-separator-
+The manager can see her. 
+When can the manager see her? 
+The manager can see her next week. 
+-separator-
+The designer can take our pictures. 
+When can the designer take our pictures? 
+The designer can take them right now. 
+-separator-
+We could use their computer. 
+When could we use it? 
+I think we could use it today. 
+-separator-
+They could take the children to the meeting. 
+How could they take them? 
+They could take them by car. 
+They could live with us. 
+How could they live with us? 
+They could live with us in the summer. 
+-separator-
+It could take months. 
+How could it take months? 
+It could take months if it rains. 
+It could work. 
+How could it work? 
+It could work if we had the right person."
+Wizard-Lesson 23-23.wma,"Conversation Lesson 23
+-separator-
+Should we leave for the office now or later?
+I believe we should leave now.
+I believe we shouldn't leave.
+-separator-
+Should we review the codebase tonight?
+I think we should.
+I don't think we should.
+-separator-
+Should he bring his spouse to the team meeting?
+-separator-
+Should I review the pull requests now?
+I think you should.
+I don't think you should.
+-separator-
+Should they await us at the hackathon venue?
+I don't think you should.
+I think you should.
+I don't think you should.
+I think you should.
+I think you should.
+I don't think you should.
+-separator-
+Should they wait for us at the hackathon venue?
+I think they should.
+I think they shouldn't.
+-separator-
+Should the project manager take minutes at the sprint planning?
+In my opinion, she should.
+I don't know why, but I think she shouldn't.
+-separator-
+Should he arrive at the stand-up meeting early?
+I think he should.
+In my opinion, he must arrive at the meeting early.
+-separator-
+Should they put in extra hours?
+I think they shouldn't.
+In my opinion, they should.
+He must work overtime if he wants to complete all his tasks.
+I think he really should put in extra hours.
+In my opinion, he should not put in extra hours.
+-separator-
+Should the tech lead be let go?
+I think he should not be let go.
+In my opinion, he should be let go."
+Wizard-Lesson 24-24.wma,"Conversation  Lesson 24
+-separator-
+He should check the code on the test environment.
+Why should he check the code on the test environment?
+Because that is the best place to run the tests.
+-separator-
+You should meet with the client tomorrow.
+Why should I meet with the client tomorrow?
+Because tomorrow is the best day for them.
+Why should I meet with the client tomorrow?
+Because tomorrow is the best day for them.
+Why should I meet with the client tomorrow?
+Because tomorrow is the best day for them.
+Why should I meet with the client tomorrow.
+Why should I meet with the client tomorrow?
+Because tomorrow is the best day for you to meet with them.
+-separator-
+You should run the unit tests now.
+Why should I run the unit tests now? Because this is the best time to run the tests.
+-separator-
+She should schedule a meeting with the team today.
+Why should she schedule a meeting with the team today?
+Because today is the best day of the week to schedule a meeting.
+-separator-
+You should commit your changes to the repository.
+Life should be agile.
+In your opinion, why should life be agile?
+Because life is too short.
+In my opinion, the developer should be promoted.
+Why should the developer be promoted?
+Because their performance is outstanding.
+-separator-
+You must fix the bug in the code.
+Why must I fix the bug in the code?
+Because it is critical and it needs to be fixed immediately.
+-separator-
+The developer mustn't merge the code yet.
+Why mustn't the developer merge the code yet?
+Because it hasn't been reviewed yet.
+-separator-
+They must deliver the project by the end of the week.
+Because the deadline is approaching."
+Wizard-Lesson 25-25.wma,"Conversation Lesson 25
+-separator-
+The developer will communicate with the database administrator. I'm confident he will engage in conversation with him.
+If he doesn't communicate with him, who will?
+-separator-
+The programmer will optimize the code for efficiency. I'm certain he will optimize it well.
+If he won't optimize the code well, who will?
+-separator-
+The team will meet the project deadline. I'm confident they will meet it on time.
+If they won't meet the deadline, who will?
+-separator-
+Stephanie will deploy a well-functioning algorithm. I am certain she will.
+If she won't deploy the algorithm, who will?
+-separator-
+She will transfer large datasets from the cloud. I am sure she will transfer the data.
+If she won't transfer the datasets, who will?
+-separator-
+I will automate some processes for you. I am sure you will appreciate it. Because if you don't use the automation, who will?
+-separator-
+She will showcase her latest machine learning model at the conference. I am confident she will present it. Because if she doesn't bring her model, who will?
+-separator-
+He will debug the code efficiently. I am sure he will. Because if he doesn't debug it effectively, who will?
+-separator-
+He will implement the neural network by next week. I am sure he will complete the implementation. Because if he doesn't implement it, who will?"
+Wizard-Lesson 26-26.wma,"Conversation, Lesson 26
+-separator-
+When will the developer upload the code to the repository?
+I hope they will do it today.
+I do too. 
+-separator-
+When will the data scientist implement the new algorithm?
+We hope they will do it tonight.
+We do too, because it's crucial for the project.
+-separator-
+When will I have a sync-up with you?
+I hope we will sync-up soon.
+I do too, because we need to discuss the project.
+-separator-
+When will we deploy the new feature?
+I hope we will deploy it soon.
+I do too, because the users are waiting for it eagerly.
+-separator-
+When will they transfer the funds?
+I hope they will transfer the funds this week.
+I do too, because the project budget depends on it.
+-separator-
+When will they update the database schema?
+I hope they will do it this morning.
+I do too, because it's blocking our progress.
+-separator-
+When will the model training process start?
+I hope it will start soon.
+I do too because the deadline is approaching.
+-separator-
+When will the testing phase begin?
+I hope it will begin now.
+I do too, because the go-live date is near.
+-separator-
+When will the sprint end?
+I hope it will end before 10.
+I do too, because we have a demo at 10.
+-separator-
+When will we have a code review session?
+I hope we will have it soon.
+I do too, because code quality is important."
+Wizard-Lesson 27-27.wma,"Conversation Lesson 27
+-separator-
+She would like to attend the meeting with us.
+Why don't we bring her? I think we should bring her with us.
+-separator-
+He would like to accompany us to the conference.
+I think we should go with him. That is a good idea.
+-separator-
+My supervisor would like to transport you to the office.
+Would you like to commute with us? Yes, I would. I would love to commute with you.
+-separator-
+He would like to have a discussion with you.
+Why should I have a discussion with him? Because he's a very insightful professional.
+-separator-
+She would like to obtain your contact information.
+Why should I provide her with my contact information? Because she wants to send some important updates to you.
+-separator-
+They would like to acquire your phone number.
+Why should I provide them with my phone number? I don't think you should share your phone number with them.
+-separator-
+He would love to attend a workshop with you.
+Why should I attend a workshop with him? He's the most skilled individual in the department.
+-separator-
+He would like to host us for a lunch meeting.
+Do you think we should have a lunch meeting with him? I think we should.
+-separator-
+They would like to supervise our children for us.
+Do you think we should entrust our kids to them? I think we should.
+-separator-
+She would like to form a professional partnership with him.
+Do you think they should form a professional partnership? I think they should."
+Wizard-Lesson 28-28.wma,"Conversation, Lesson 28
+-separator-
+The developer needs to speak with him immediately.
+Why does the developer need to speak with him?
+I'm not sure about the reason for the request.
+-separator-
+They are interested in relocating to the ground floor.
+What is the motivation behind their interest in living on the ground floor?
+Why do they want to reside on the ground floor?
+What drives their desire to live on the lower level?
+What's the reasoning behind their preference for the basement?
+Their choice stems from financial constraints and the unaffordability of a spacious apartment.
+-separator-
+He is turning 15 years old this week.
+How can you be certain he will turn 15 this week?
+It coincides with his birthday this week.
+-separator-
+You will be included in the project team.
+How do you know you will be included?
+Because I have seen your assignment notification.
+-separator-
+He is eager to engage in a conversation with you.
+I am unsure if I should engage in dialogue with him.
+What’s holding you back?
+-separator-
+I am considering purchasing a new algorithmic camera.
+Where do you suggest I look for a quality camera?
+I recommend exploring online stores.
+Where would be the best place to find a good camera?
+You should consider browsing online retailers.
+-separator-
+She has expressed interest in going out with you.
+How did you come to know that?
+She personally informed me.
+-separator-
+They are keen on joining us for a stroll.
+Shall we extend an invitation to them?
+I think that's a great idea.
+-separator-
+They intend to borrow our camera for photography.
+When will they require it?
+It's likely for the upcoming event, the birthday celebration.
+-separator-
+I plan to host a coding session with my friends.
+When is the scheduled code review?
+I believe it is planned for the upcoming weekend."
+Wizard-Lesson 29-29.wma,"Conversation, Lesson 29
+-separator-
+What are your plans for the weekend?
+We're planning to have a spicy dinner at a Mexican restaurant.
+Can I join you? I heard it might snow.
+I don't anticipate any snow today.
+But it's expected to snow tomorrow.
+- separator -
+Where do you intend to check your emails?
+I will be using my friend's computer at his place.
+Do you think I can come along? 
+When is he scheduled to travel?
+He's scheduled to travel next year.
+Do you already have information on his destination?
+- separator -
+I have a meeting with her tonight.
+Where will you rendezvous with her?
+We are meeting at the mall.
+She is not expected to pick up the phone.
+What's the reason for her unavailability?
+She prefers not to engage in conversation with anyone.
+- separator -
+I believe the weather will be delightful.
+Where would you like to go?
+I would love to take a stroll in the park.
+They plan to use the car tonight.
+Where are they headed?
+They are heading downtown.
+He is departing in the morning.
+Do you know when he will return?
+I'm not sure.
+- separator -
+I'm planning to inquire about his health from the doctor.
+What do you intend to ask the doctor?
+I will inquire about his travel prospects."
+Wizard-Lesson 3-03.wma,"Conversation, Lesson 3  
+-separator-  
+What did they accomplish?
+They conducted a code review session.
+No, they didn't. They didn't conduct a code review session.
+Yes, they did. They conducted a code review session.
+-separator-  
+What did you acquire?
+I gained proficiency in implementing machine learning algorithms.
+I gained proficiency in implementing machine learning algorithms.
+I gained proficiency in implementing machine learning algorithms.
+I gained proficiency in implementing machine learning algorithms.
+-separator-  
+What did you acquire?
+I mastered deploying neural networks for natural language processing.
+No, you didn't. You didn't master deploying neural networks for natural language processing.
+Yes, I did. I mastered deploying neural networks for natural language processing.
+-separator-  
+What did he accomplish?
+He debugged the software during the sprint.
+No, he didn't. He didn't debug the software during the sprint.
+Yes, he did. He debugged the software during the sprint.
+-separator-  
+What did she achieve?
+She led the brainstorming session for the new feature.
+No, she didn't. She didn't lead the brainstorming session for the new feature.
+Yes, she did. She led the brainstorming session for the new feature.
+-separator-  
+What did she acquire in 2018?
+She learned to develop web applications using JavaScript in 2018.
+No, she didn't. She didn't learn to develop web applications using JavaScript in 2018.
+No, she didn't. She didn't learn to develop web applications using JavaScript in 2018.
+Yes, she did. She learned to develop web applications using JavaScript in 2018.
+-separator-  
+Who possesses extensive experience?
+My mentor possesses extensive experience in cloud computing.
+No, he does not. Your mentor does not possess extensive experience in cloud computing.
+Yes, he does. My mentor possesses extensive experience in cloud computing.
+-separator-  
+How skilled is he?
+He is proficient in Python programming.
+No, he's not. He isn't proficient in Python programming.
+-separator-  
+How skilled is she?
+She's adept at machine learning model evaluation.
+No, she isn't. She isn't adept at machine learning model evaluation.
+Yes, she is. She is adept at machine learning model evaluation.
+-separator-  
+How experienced are you?
+I have seven years of experience in software development.
+-separator-  
+How experienced are you?
+I have four years of experience in machine learning engineering.
+-separator-  
+How experienced are you?
+I have four years of experience in machine learning engineering.
+-separator-  
+How experienced are you?
+I have seven years of experience in software development.
+No, you're not. You are not seven years of experience in software development.
+Yes, I am. I am seven years of experience in software development.
+-separator-  
+How old are the models?
+They are two years old.
+No they aren't, they are not two years old.
+Yes they are, the models are two years old."
+Wizard-Lesson 30-30.wma,"Conversation Lesson 30
+-separator-
+The developer is going to use the phone in the office.
+Who will he call?
+I think he will call the data scientist.
+-separator-
+They would like to look at the code on the repository.
+Should I show them this code on the repository?
+No problem, you can show them.
+-separator-
+He's going to wait for us in the meeting room.
+Where should we meet him?
+We should meet him in the programming department.
+-separator-
+The engineer is going to review the algorithm again.
+Why is he going to review it again?
+He wants to be sure that it is optimized.
+-separator-
+We're going to debug the software in the testing environment.
+Would you like to debug with us?
+I would love to.
+-separator-
+He's going to invite her to join the hackathon.
+When will the hackathon be?
+It will be this weekend.
+-separator-
+She is going on a code sprint with my colleague.
+Where will they work?
+I still don't know where they will work.
+-separator-
+They're going to deploy the new feature tonight.
+Is anybody invited?
+They didn't invite anybody.
+-separator-
+They are going to have a lot of fun at the coding competition.
+What are they going to do?
+They are going to code all night long.
+-separator-
+You will love our next project.
+Why do you think so?
+Because it is full of innovative solutions."
+Wizard-Lesson 4-04.wma,"Conversation  Lesson 4
+-separator-
+What did the developer code?
+He coded a function in Python.
+Did he code a function in Python?
+Yes, he did.
+-separator-
+How long did they test?
+They tested for one hour before the release.
+Did they test for an hour before the release?
+Yes, they did.
+-separator-
+When did your team learn to use the new framework?
+They learned to use the new framework in 2023?
+Yes, they did.
+-separator-
+How much did the project manager pay for the bug fix?
+He paid $1000 for the bug fix.
+How much did the project manager pay for the bug fix? He paid $1000 for the bug fix? He paid one thousand dollars for the bug fix.
+Did he pay one thousand dollars for the bug fix?
+Yes, he did.
+-separator-
+Where did the programmers debug?
+They debugged in the development environment.
+Did the programmers debug?
+They debugged in the development environment.
+Did the programmers debug in the development environment?
+Yes, they did.
+-separator-
+How experienced is your senior developer?
+He has 10 years of experience.
+Is your senior developer 10 years of experience?
+Yes, he is.
+-separator-
+How experienced is your junior programmer?
+He has 2 years of experience.
+Is your junior programmer 2 years of experience?
+Yes, he is.
+-separator-
+How experienced is the team lead?
+She has 5 years of experience.
+Is the team lead 5 years of experience?
+Yes, she is.
+-separator-
+How experienced are you?
+I have 3 years of experience.
+Are you 3 years of experience?
+Yes, I am.
+-separator-
+How old is your laptop?
+My laptop is 2 years old.
+Is your laptop 2 years old?
+Yes, it is."
+Wizard-Lesson 5-05.wma,"Conversation, Lesson 5
+-separator-
+He attended workshops at the coding bootcamp.
+Yes, he did. He attended workshops last semester.
+No, he didn't. He didn't attend workshops at the coding bootcamp.
+-separator-
+He debugged all his scripts.
+Yes, he did. He debugged them all yesterday.
+No, he didn't. He didn't debug all his scripts.
+-separator-
+She discussed with the project manager.
+Yes, she did. She discussed with the project manager after the meeting.
+No, she didn't. She didn't discuss with the project manager.
+-separator-
+He ordered coffee.
+Yes, he did. He ordered coffee for the team break.
+No, he didn't. He didn't order coffee.
+-separator-
+She utilized the desktop computer yesterday.
+Yes, she did. She used a desktop computer to program the software.
+No, she didn't. She didn't utilize the desktop computer.
+-separator-
+He was coding in the office.
+Yes, he was. He was coding in the office all afternoon.
+No, he wasn't. He wasn't coding in the office.
+-separator-
+I was sending messages to the remote developers.
+Yes, I was. I was sending messages to them about the project update.
+No, I wasn't. I wasn't sending messages to the remote developers.
+-separator-
+He was optimizing his algorithms yesterday.
+Yes, he was. He was optimizing his algorithms at his workstation.
+No, he wasn't. He wasn't optimizing his algorithms.
+-separator-
+I was programming in Python.
+Yes, I was. I was programming in Python to develop the application.
+No, I wasn't. I wasn't programming in Python.
+-separator-
+She was analyzing data.
+Yes, she was. She was analyzing customer data.
+No, she wasn't. She wasn't analyzing data."
+Wizard-Lesson 6-06.wma,"Conversation, Lesson six
+-separator-
+Did she attend a coding bootcamp or she didn't?
+I think she did.
+-separator-
+Did he debug all day or he didn't?
+I don't think he did.
+-separator-
+Did she complete her project or she didn't?
+I don't think she did.
+-separator-
+Did they debug the code or they didn't?
+I think they did.
+-separator-
+Did he wait for his code review or he didn't?
+I think he did.
+-separator-
+When was she troubleshooting it?
+She was troubleshooting it in the morning.
+-separator-
+When was she developing it?
+She was developing it for deployment.
+-separator-
+When was he coding?
+He was coding in the evening.
+-separator-
+When was she using the IDE?
+She was using the IDE after the sprint meeting.
+-separator-
+When was she discussing with the product manager?
+She was discussing with him before the sprint planning."
+Wizard-Lesson 7-07.wma,"Conversation, Lesson 7  
+-separator-  
+They attended a conference in Europe back in 1998.
+How did they get there?
+They flew there.
+-separator-  
+I attended a workshop in Switzerland last summer.
+How did you get to Switzerland?
+I took a train there.
+-separator-  
+Jennifer carried numerous project folders to the meeting.
+How many project folders did she bring along?
+She brought six project folders with her.
+-separator-  
+I anticipated her presence at the project kickoff.
+What made you think so?
+Because I overheard discussions about it.
+-separator-  
+Your supervisor left a note for you.
+Where did you find the note?
+I found it on my desk.
+-separator-  
+I spotted her working on her machine learning assignment.
+Where was she working on her assignment?
+She was working on it in the conference room.
+-separator-  
+He's contemplating purchasing a condo.
+Who's considering buying a condo?
+John is.
+-separator-  
+She's heading out on a business trip.
+Who's traveling?
+Alexis is.
+-separator-  
+They're departing early tomorrow morning.
+Who's leaving?
+Emily and David are.
+-separator-  
+She's bringing a tablet to the meeting.
+Who's bringing a tablet?
+Sophia is."
+Wizard-Lesson 8-08.wma,"Conversation. Lesson 8.
+-separator-
+They departed the office at 6 o'clock. Why did they leave so early?
+Because they had to catch a flight at 8 o'clock.
+-separator-
+He remained in the meeting room until 10 o'clock last night. Why did he stay at work so late?
+Because they had an extended discussion.
+-separator-
+Do you know if there's someone waiting in the conference room?
+Is there anybody waiting in the conference room?
+Nobody is waiting in the conference room.
+-separator-
+Do you know if it's pouring there?
+I don't think it's raining. I believe it's snowing.
+-separator-
+Do you know if he discussed the project with his colleague?
+I'm unsure if he discussed it. I don't think he did. I don't think he did.
+-separator-
+Do you know if she's acquiring proficiency in Python programming?
+I don't know if she's learning Python. I don't think she is.
+-separator-
+Do you know if they check their analytics dashboard every day?
+I don't know if they do. I don't think they do.
+-separator-
+Do you know if he's financially strained?
+I don't know if he's financially strained or not. I believe he is.
+-separator-
+Do you know if she's in a committed relationship or single?
+I don't know if she's in a committed relationship or single. I think she's in a committed relationship.
+-separator-
+Do you think she codes in her spare time?
+I don't know if she codes in her spare time. I think she does."
+Wizard-Lesson 9-09.wma,"Conversation, Lesson 9
+-separator-
+The developer noticed an empty server rack.
+Where did he notice it?
+He noticed it in the data center.
+-separator-
+Alice assigned a task to her team lead.
+How is your team lead? I think he's handling it well.
+-separator-
+John deployed the code after midnight.
+Why did he deploy so late? He needed to fix a bug.
+-separator-
+How experienced do you think she is?
+I don't know her experience level. I think she's been coding for about 5 years.
+-separator-
+As you know, he was in a rush to meet the deadline.
+Why was he in a hurry? Because there was a critical release scheduled.
+-separator-
+As you know, he was very bugged by the software issue.
+How is the system running now?
+It's much more stable now.
+-separator-
+I didn't see you at the stand-up meeting yesterday.
+Where were you yesterday?
+I was debugging code all day long.
+-separator-
+I didn't see them in the scrum session.
+Where were they?
+They were working in the design studio.
+-separator-
+I didn't see her at the hackathon.
+Where was she?
+She was attending a tech conference.
+-separator-
+I didn't see him in the code repository.
+Where was he?
+He was reviewing pull requests."
