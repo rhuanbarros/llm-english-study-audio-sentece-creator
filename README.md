@@ -1,6 +1,8 @@
 # 📚 llm-english-study-audio-sentence-creator
 
-Welcome to the **llm-english-study-audio-sentence-creator** project! 🎉 This prototype is designed to assist students in learning English by listening to and practicing sentences in various contexts. Our goal is to expand beyond common topics like food and travel and dive into the tech industry vocabulary. 💻
+Welcome to the **llm-english-study-audio-sentence-creator** project! 🎉 
+
+This prototype is designed to assist students in learning English by listening to and practicing sentences with vocabulary in the context of tech industry. 💻
 
 ## 🚀 Problem Addressed
 
